@@ -5,29 +5,29 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Developing AI Applications on Azure",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/account/accomplishments/verify/XA7P4BJM9UKC?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link",
+    title: "Remote Sensing & GIS for Environmental Studies",
+    cardImage: "https://www.logotaglines.com/wp-content/uploads/2021/06/ISRO-Indian_Space_Research_Organisation-Logo-Slogan-tagline-vision-mission-motto-720x480.png",
+    moocLink: "https://www.linkedin.com/posts/activity-6828956260914868224-p61m/",
   },
   {
-    title: "Getting Started with Azure",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/account/accomplishments/verify/662XAZJ49S5T?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link",
+    title: "Google Analytics for Beginners",
+    cardImage: "https://i1.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Analytics-Academy.jpg?fit=800%2C400&ssl=1",
+    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00,1604339423220)/",
   },
   {
-    title: "Advanced Deep Learning with Keras",
+    title: "Introduction to Python",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/47da2c161e1532babe27282d761117ac3255b5d5",
+    moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/ee9f2e7ccc3d3f29cf9ddddf3e4510d58d91fe23",
   },
   {
-    title: "Python Programming Track",
+    title: "Machine Learning for Everyone",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.datacamp.com/statement-of-accomplishment/track/9e28d88f239dbde051d67a8b687a66b92d17de0a",
+    moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
   },
   {
-    title: "NLP with Python for Machine Learning",
-    cardImage: "assets/images/education-page/link.png",
-    moocLink: "https://drive.google.com/file/d/1LPIB02xxdRKL1tcmGuIFeiR-PQZhcFw3/view?usp=sharing",
+    title: "Essential Program in JavaScript Programming",
+    cardImage: "https://i.vimeocdn.com/video/1152271282_1280x720.jpg",
+    moocLink: "https://www.linkedin.com/posts/activity-6831458354611793921-0fIy",
   },
 ];
 
@@ -57,59 +57,18 @@ const showCards = () => {
 document.addEventListener("DOMContentLoaded", showCards);
 
 
-/* Badges*/
-
-const bagdes = document.querySelector(".badges");
-const badgesection = [
-  {
-    title: "Academic Integrity Awareness",
-    image: "assets/images/education-page/academic.png",
-    description: "Earned March 7, 2020",
-  },
-  {
-    title: "Presenting Using Story",
-    image: "assets/images/education-page/presentingUsingStory.png",
-    description: "Earned March 26, 2020",
-  },
-  {
-    title: "Ethical Cities",
-    image: "assets/images/education-page/ethical_cities.png",
-    description: "Earned May 15, 2020",
-  },
-];
-
-const showCards1 = () => {
-  let output = "";
-  badgesection.forEach(
-    ({ title, image, description}) =>
-      (output += `
-      <div class="col-lg-4 col-md-6 p-2" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="600">
-        <img class="img-fluid d-block mb-3 mx-auto hvr-grow" src="${image}" alt="Card image cap" width="200">
-          <div class="text-center font-weight-bolder" style="font-size: 1.3em;">${title}</div>
-          <div class="text-center text-muted font-weight-bolder p-2">${description}</div>
-      </div>`)
-  );
-  bagdes.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards1);
 
 
 /* Timeline Section*/
 
 const timeline = document.querySelector(".timeline");
 const timelinesection = [
+ 
   {
-    heading: "RMIT University",
+    heading: "Sri Venkateshwara College Of Engineering",
     image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Masters in Artificial Intelligence, (Feb 2020-present)",
-    description: "<li>Minor thesis: Federated learning for Human mobility models</li><li>Recipient (Masters for AI Scholarship for Indian and Sri Lankan Students)</li><li>Payload team Member of HIVE(RMIT's student-led rocketry team)</li><li>GPA(Year 1): 3.3</li>",
-  },
-
-  {
-    heading: "Sir M Visvesvaraya Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Computer Science & Engineering, (Aug 2015-Jul 2019)",
-    description: "<li>Electives: Artificial Intelligence; Data mining & Data Warehousing; Digital Image Processing</li><li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>GPA: 3.5</li>",
+    subheading:"Bachelors of Computer Science & Engineering, (Aug 2018-Jul 2022)",
+    description: "<li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>SGPA: 7.75</li>",
   },
 ];
 

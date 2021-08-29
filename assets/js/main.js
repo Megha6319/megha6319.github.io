@@ -72,7 +72,7 @@ let header = $(`
 <li><a href="education.html">Education</a></li>
 <li><a href="blog.html">Blog</a></li>
 <li><a href="EthicalAI.html">EthicalAI</a></li>
-<li><a href="assets/docs/VarshaCBendreResume.pdf" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1Ueckid45_O6hhiuVWOAMHtenl762jw2g/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
@@ -100,26 +100,19 @@ let footer = $(`
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
         <a class="webintern-footer-logo" href="#">
-          <center><img src="assets/images/varsha_white.png"style="width: 220px;"/></center>
+          <center><img src="https://logos.flamingtext.com/Name-Logos/Megha-design-power-name.gif"style="width: 220px;"/></center>
         </a>
 
     </div>
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer">
-  <a class="social-icon-footer twitter" href="https://twitter.com/varsha63191" target="_blank" rel="author">
-    <i class="fab fa-twitter"></i>
-      </a>
-  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/varsha-c-bendre/" target="_blank" rel="author">
+ 
+  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
-      </a>
-  <a class="social-icon-footer medium" href="https://medium.com/@varshacbendre" target="_blank" rel="author">
-    <i class="fab fa-medium-m"></i>
-      </a>
-  <a class="social-icon-footer kaggle" href="https://www.kaggle.com/varsha6319" target="_blank" rel="author">
-    <i class="fab fa-kaggle"></i>
-      </a>
-  <a class="social-icon-footer github" href="https://github.com/varsha6319" target="_blank" rel="author">
+</a>
+
+  <a class="social-icon-footer github" href="https://github.com/megha6319" target="_blank" rel="author">
     <i class="fab fa-github"></i>
       </a>
   <br>
@@ -134,7 +127,7 @@ let footer = $(`
           <small>Get In Touch</small>
         </h4>
         <p style="color:white;">
-        <a style="color:white;" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=varshacbendre@gmail.com" target="_blank">varshacbendre@gmail.com</a>
+        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank">meghabendre21@gmail.com</a>
         </p>
 
         <div class="empty-space marg-lg-b30"></div>
