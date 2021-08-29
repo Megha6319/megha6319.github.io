@@ -5,7 +5,7 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Remote Sensing & GIS for Environmental Studies",
+    title: "Remote Sensing & GIS",
     cardImage: "https://images.indianexpress.com/2018/09/isro-comp3.jpg",
     moocLink: "https://www.linkedin.com/posts/activity-6828956260914868224-p61m/",
   },
@@ -25,7 +25,7 @@ const moocscards = [
     moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
   },
   {
-    title: "Essential Program in JavaScript Programming",
+    title: "JavaScript Programming Essentials",
     cardImage: "https://i.vimeocdn.com/video/1152271282_1280x720.jpg",
     moocLink: "https://www.linkedin.com/posts/activity-6831458354611793921-0fIy",
   },
