@@ -6,7 +6,7 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Remote Sensing & GIS for Environmental Studies",
-    cardImage: "https://ih1.redbubble.net/image.389750836.4615/cposter,small,square_product,1000x1000.2u3.jpg",
+    cardImage: "https://images.indianexpress.com/2018/09/isro-comp3.jpg",
     moocLink: "https://www.linkedin.com/posts/activity-6828956260914868224-p61m/",
   },
   {
