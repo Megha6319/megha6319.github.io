@@ -25,7 +25,7 @@ const moocscards = [
     moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
   },
   {
-    title: "JavaScript Programming Essentials",
+    title: "JavaScript Essentials",
     cardImage: "https://i.vimeocdn.com/video/1152271282_1280x720.jpg",
     moocLink: "https://www.linkedin.com/posts/activity-6831458354611793921-0fIy",
   },
