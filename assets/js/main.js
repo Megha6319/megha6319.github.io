@@ -32,18 +32,18 @@ function topFunction() {
 let header = $(`
 <nav class="black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="assets/images/varsha_white.png"></a>
+    <a href="#!" class="brand-logo"><img src="https://lh3.googleusercontent.com/proxy/jUInfqpPvt_ybq_4-m9CrUdYrKqz962LNnFShpS0ixnhkjHHWq0JcHSyv9xGOXbHwtF_ZFHUbma7pWIQoVyn68IqABw15erh5Jy_ciaN1SPbGNTcnLFwPQ1E0T0gFgUOKA"style="width: 70px;"></a>
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a class="white-text" href="index.html">Home</a></li>
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
-        <li><a class="white-text" href="research.html">Research</a></li>
+       
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="blog.html">Blog</a></li>
-        <li><a class="white-text" href="EthicalAI.html">EthicalAI</a></li>
-        <li><a class="white-text" href="assets/docs/VarshaCBendreResume.pdf" target="_blank">My Resume</a></li>
+       
+    
+        <li><a class="white-text" href="assets/docs/meghac.pdf" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -68,10 +68,10 @@ let header = $(`
 <li><a href="index.html">Home</a></li>
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-<li><a href="research.html">Research</a></li>
+
 <li><a href="education.html">Education</a></li>
-<li><a href="blog.html">Blog</a></li>
-<li><a href="EthicalAI.html">EthicalAI</a></li>
+
+
 <li><a href="https://drive.google.com/file/d/1Ueckid45_O6hhiuVWOAMHtenl762jw2g/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
@@ -100,7 +100,7 @@ let footer = $(`
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
         <a class="webintern-footer-logo" href="#">
-          <center><img src="https://logos.flamingtext.com/Name-Logos/Megha-design-power-name.gif"style="width: 220px;"/></center>
+          <center><img src="https://i.pinimg.com/originals/9e/ee/f0/9eeef05334a3316fdd3b554cb98209b7.jpg"style="width: 60px;""height:60px;"/></center>
         </a>
 
     </div>
