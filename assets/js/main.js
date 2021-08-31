@@ -32,7 +32,7 @@ function topFunction() {
 let header = $(`
 <nav class="black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="https://lh3.googleusercontent.com/proxy/jUInfqpPvt_ybq_4-m9CrUdYrKqz962LNnFShpS0ixnhkjHHWq0JcHSyv9xGOXbHwtF_ZFHUbma7pWIQoVyn68IqABw15erh5Jy_ciaN1SPbGNTcnLFwPQ1E0T0gFgUOKA"style="width: 70px;"></a>
+    <a href="#!" class="brand-logo"><img src="https://i.pinimg.com/564x/51/fa/58/51fa5820611749124fac085c8c36e2d7.jpg"style="width: 70px;"></a>
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
