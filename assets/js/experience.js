@@ -25,7 +25,7 @@ const exp = [
   },
   {
     title: "Web Design Intern",
-    cardImage: "assets/images/experience-page/rolla.png",
+    cardImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Frollaonline.com%2Fupcoming-courses%2F&psig=AOvVaw12-yKY9F7b4zu_jQP1xGde&ust=1637945040463000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDso_T6s_QCFQAAAAAdAAAAABAD",
     place: "Bangalore Urban, Karnataka, India",
     time: "(Nov 2020 – Feb 2021)",
     desp:"<li>Made a video testimonial which was being posted in the website of RollaOnline.Worked on HTML and CSS </li>",
