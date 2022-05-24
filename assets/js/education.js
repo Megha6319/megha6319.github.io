@@ -24,11 +24,7 @@ const moocscards = [
     cardImage: "assets/images/education-page/datacamp.png",
     moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
   },
-  {
-    title: " Usefulness of Remote Sensing & GIS for Environmental Studies",
-    cardImage: "https://images.indianexpress.com/2018/09/isro-comp3.jpg",
-    moocLink: "https://www.linkedin.com/posts/activity-6897127140815462400-CL_c?utm_source=linkedin_share&utm_medium=member_desktop_web",
-  },
+  
 ];
 
 const showCards = () => {
