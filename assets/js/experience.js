@@ -7,7 +7,7 @@ const exp = [
     cardImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerindia.com%2Fnews%2Fbel-recruitment-2021-for-trainee-officer-and-project-officer-at-bel-bengaluru-apply-before-june-24-029589.html&psig=AOvVaw2x_r61U1tOuO4q53Ykn4pq&ust=1653486603691000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjPmuGj-PcCFQAAAAAdAAAAABAD",
     place: "Bangalore Urban, Karnataka, India",    
     time: "(April 2022 – May 2022)",
-    desp: "<li>Learnt about Camunda - bpmn and dmn process modeler , also about Workflow Engine to automate the tasks and even about REST API.The real-time task was alloted for work that is in case an accident occurs the direct message has to be sent via a mail or a message to hospital and also to police station through Service Task.</li>",
+    desp: "<li>Learnt about Camunda modeler , also about Workflow Engine and even about REST API.</li>",
   },
   {
     title: "Web Development in Python-Intern",
