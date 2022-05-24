@@ -38,14 +38,6 @@ const exp = [
     desp:"<li>Made a video testimonial which was being posted in the website of RollaOnline.Worked on HTML and CSS </li>",
   },
   {
-    title: "Graphic Designer Intern",
-    cardImage: "https://www.cureya.in/wp-content/uploads/2019/07/cureya-logo.png",
-    place: "Bangalore Urban, Karnataka, India",
-    time: "(Jul 2021 – Aug 2021)",
-    desp:"<li>Worked as a Graphic Designer Intern for a month completed the assigned projects on time.</li>",
-  },
-
-  {
     title: "Web Developer Intern",
     cardImage: "https://media-exp1.licdn.com/dms/image/C510BAQF6uFh25RQtFg/company-logo_200_200/0/1546951761311?e=2159024400&v=beta&t=cwiWv5oGv3LP7BLLTWILRPNYK2p_zoWLCPggILycNFI",
     place: "Bangalore Urban, Karnataka, India",
