@@ -64,7 +64,7 @@ const timelinesection = [
     heading: "Sri Venkateshwara College Of Engineering",
     image: "./assets/images/education-page/timeline-1.svg",
     subheading:"Bachelors of Computer Science & Engineering, (Aug 2018-Jul 2022)",
-    description: "<li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>CGPA: 7.99</li>",
+    description: "<li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>CGPA: 8.24</li>",
   },
 ];
 
