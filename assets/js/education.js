@@ -57,8 +57,8 @@ const timelinesection = [
   {
     heading: "RMIT University",
     image: "./assets/images/education-page/timeline-2.svg",
-    subheading: "Masters of Data Science & Engineering, (Feb 2023-Nov 2024)",
-    description: "<li>Undergraduate Coursework: Database Concepts ; Practical Data Science with Python ; Applied Analytics ; Advanced Programming for Data Science ; Programming Fundamentals ; Time Series Analysis.</li><li>CGPA: 3/4 </li>",
+    subheading: "Masters in Data Science , (Feb 2023-Nov 2024)",
+    description: "<li>Postgraduate Coursework: Database Concepts ; Practical Data Science with Python ; Applied Analytics ; Advanced Programming for Data Science ; Programming Fundamentals ; Time Series Analysis.</li><li>CGPA: 3/4 </li>",
   },
   {
     heading: "Sri Venkateshwara College Of Engineering",
