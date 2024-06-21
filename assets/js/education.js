@@ -4,24 +4,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "GeeksforGeeks",
+    title: "Data Science BootCamp",
     cardImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgixs36L0KYTRVGX8YdjSLiege2-7KUAi8woXTSSfbonoFvKbyCuAYY23UdrqztuO5bEYyr7AfHT3yV4onCMMEmkrk3oU5uyed6SoSuOOuZ7DPyWu0JmT7NGMu2Xj4HMHMAGi6Zpw7VtVy1T993Wjm6fEYS0ocmXR_vCT4TjzVLQPxcbPPcztsg1Y/s2560/GeeksforGeeks.svg.png",
     moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1718594761397/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Google Analytics for Beginners",
     cardImage: "https://i1.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Analytics-Academy.jpg?fit=800%2C400&ssl=1",
-    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00,1604339423220)/",
+    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339423220/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Introduction to Python",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/ee9f2e7ccc3d3f29cf9ddddf3e4510d58d91fe23",
+    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339531593/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Machine Learning for Everyone",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
+    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339825268/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
 ];
 
