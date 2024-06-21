@@ -99,7 +99,7 @@ let footer = $(`
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
         <a class="webintern-footer-logo" href="#">
-          <center><img src="https://i.pinimg.com/originals/9e/ee/f0/9eeef05334a3316fdd3b554cb98209b7.jpg"style="width: 60px;""height:60px;"/></center>
+    
         </a>
 
     </div>
