@@ -21,7 +21,7 @@ const exp = [
     cardImage: "https://media.licdn.com/dms/image/C560BAQETKscYgcLx3g/company-logo_200_200/0/1660656944705/redblacktree_logo?e=1727308800&v=beta&t=fZylEv2H1xEDAzxOKPbVhp1sJ3wLVRHL40ubPFEtH40",
     place: "Bangalore Urban, Karnataka, India",    
     time: "(Aug 2022 – Oct 2022)",
-    desp: "<li>CCompleted the Mendix Rapid Developer Certification course, gaining the knowledge and practical skills necessary to leverage the Mendix platform for application development.</li>",
+    desp: "<li>Completed the Mendix Rapid Developer Certification course, gaining the knowledge and practical skills necessary to leverage the Mendix platform for application development.</li>",
   },
   
   {
