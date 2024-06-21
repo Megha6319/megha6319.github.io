@@ -1,13 +1,12 @@
 AOS.init();
 
 // MOOCs Cards
-
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Remote Sensing & GIS",
-    cardImage: "https://images.indianexpress.com/2018/09/isro-comp3.jpg",
-    moocLink: "https://www.linkedin.com/posts/activity-6828956260914868224-p61m/",
+    title: "GeeksforGeeks",
+    cardImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgixs36L0KYTRVGX8YdjSLiege2-7KUAi8woXTSSfbonoFvKbyCuAYY23UdrqztuO5bEYyr7AfHT3yV4onCMMEmkrk3oU5uyed6SoSuOOuZ7DPyWu0JmT7NGMu2Xj4HMHMAGi6Zpw7VtVy1T993Wjm6fEYS0ocmXR_vCT4TjzVLQPxcbPPcztsg1Y/s2560/GeeksforGeeks.svg.png",
+    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1718594761397/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Google Analytics for Beginners",
@@ -24,7 +23,6 @@ const moocscards = [
     cardImage: "assets/images/education-page/datacamp.png",
     moocLink: "https://www.datacamp.com/statement-of-accomplishment/course/d4e3d61788119eeb9c880a80bb10247f8d2577f2",
   },
-  
 ];
 
 const showCards = () => {
@@ -52,18 +50,20 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-
-
-
-/* Timeline Section*/
-
+// Timeline Section
 const timeline = document.querySelector(".timeline");
+
 const timelinesection = [
- 
+  {
+    heading: "RMIT University",
+    image: "./assets/images/education-page/timeline-2.svg",
+    subheading: "Masters of Data Science & Engineering, (Feb 2023-Nov 2024)",
+    description: "<li>Undergraduate Coursework: Database Concepts ; Practical Data Science with Python ; Applied Analytics ; Advanced Programming for Data Science ; Programming Fundamentals ; Time Series Analysis.</li><li>CGPA: 3/4 </li>",
+  },
   {
     heading: "Sri Venkateshwara College Of Engineering",
     image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Computer Science & Engineering, (Aug 2018-Jul 2022)",
+    subheading: "Bachelors of Computer Science & Engineering, (Aug 2018-Jul 2022)",
     description: "<li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>CGPA: 8.24</li>",
   },
 ];
@@ -71,7 +71,7 @@ const timelinesection = [
 const showCards2 = () => {
   let output = "";
   timelinesection.forEach(
-    ({ heading, image, subheading, description}) =>
+    ({ heading, image, subheading, description }) =>
       (output += `
       <div class="timeline" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="600">
       <div class="timeline-content">
