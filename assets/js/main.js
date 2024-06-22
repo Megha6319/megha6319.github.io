@@ -83,29 +83,46 @@ let header = $(`
         </li>
 </ul>`);
 let footer = $(`
-  <footer class="page-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6 col-md-5 pt-3 footer-2">
-          <h4 class="webintern_footer_title h5">Contact</h4>
-          <p style="color:white;">
-            <a style="color:white;" href="mailto:meghabendre21@gmail.com">meghabendre21@gmail.com</a>
-          </p>
-          <div class="empty-space marg-lg-b30"></div>
-        </div>
-        <div class="col-sm-6 col-md-7 pt-3">
-          <!-- Additional footer content if needed -->
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-12 text-center">
-          <!-- Copyright or additional footer content -->
-        </div>
+<footer class="webintern-footer">
+<div class="webintern-footer-inner">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-md-6 pt-3" >
+      <div class="col-sm-6 col-md-7">
+        <a class="webintern-footer-logo" href="#">
+    
+        </a>
+    </div>
+    <!-- Social media icons for footer -->
+<div class="social-icons-footer">
+    <a href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FColor-of-the-LinkedIn-Logo.jpg&f=1&nofb=1&ipt=87d910146bfaa2b2244db77374cdc8a18d559692707158a3546f0a351073f81a&ipo=images" alt="LinkedIn" style="width: 35px; height: 32px; border-radius: 50%; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/megha6319" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F128-1280192_github-logo-png-github-png-transparent-png.png&f=1&nofb=1&ipt=a2d94e338d5810def10844dbecbb0186e876a6d26529e7d322704dccebb4da9d&ipo=images" alt="GitHub" style="width: 35px; height: 32px; border-radius: 50%;">
+    </a>
+    <br>
+</div>
+    </div>
+      <div class="col-sm-6 col-md-5 pt-3 footer-2">
+        <!-- footer_title -->
+        <h4 class="webintern_footer_title h5">
+          <small>Get In Touch</small>
+        </h4>
+        <p style="color:white;">
+        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank">meghabendre21@gmail.com</a>
+        </p>
+        <div class="empty-space marg-lg-b30"></div>
       </div>
     </div>
-  </footer>
-`);
-
+  </div>
+</div>
+<div class="tt-copy">
+  <div class="container col-sm-6">
+   <!-- <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>-->
+  </div>
+</div>
+</footer>`);
 let bodyElement = $(`body`);
 bodyElement.prepend(header);
 bodyElement.append(footer);
