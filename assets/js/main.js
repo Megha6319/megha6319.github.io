@@ -1,9 +1,7 @@
 //common side navbar call
-
 $(document).ready(function () {
   $(".sidenav").sidenav();
 });
-
 //Get the top button
 var mybutton = document.getElementById("myBtn");
 // When the user scrolls down 20px from the top of the document, show the button
@@ -26,9 +24,7 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
-
 //Footer and Navbar
-
 let header = $(`
 <nav class="black">
 <div class="nav-wrapper">
@@ -62,19 +58,14 @@ let header = $(`
     </ul>
 </div>
 </nav>
-
 <!--Side Nav Bar -->
 <ul class="sidenav" id="mobile-demo">
 <li><a href="index.html">Home</a></li>
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-
 <li><a href="education.html">Education</a></li>
-
-
 <li><a href="https://assets/meghac.pdf" target="_blank"> Resume</a></li>
  <li><a class="white-text" href="assets/COVER LETTER.pdf" target="_blank"> Cover Letter </a></li>
-
 <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -91,28 +82,30 @@ let header = $(`
           </label>
         </li>
 </ul>`);
-
- <!-- Dynamic footer section -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
-        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167979537-2"></script>
-    <!-- Fetching our Google Tag Manager -->
-
-    <!--JavaScript at end of body for optimized loading-->
-    <script src="assets/js/main.js"></script>
-    <script type="text/javascript" src="assets/js/materialize.min.js"></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'></script>
-    <script src="assets/js/particle.js"></script>
-
-
+let footer = $(`
+      <div class="col-sm-6 col-md-5 pt-3 footer-2">
+        <!-- footer_title -->
+        <h4 class="webintern_footer_title h5">
+        
+        </h4>
+        <p style="color:white;">
+        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank"> meghabendre21@gmail.com </a>
+        </p>
+        <div class="empty-space marg-lg-b30"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="tt-copy">
+  <div class="container col-sm-6">
+   <!-- <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>-->
+  </div>
+</div>
+</footer>`);
 let bodyElement = $(`body`);
 bodyElement.prepend(header);
 bodyElement.append(footer);
-
 /*JavaScript for toggle for light/dark mode*/
-
 var checkbox = document.querySelector('input[name=theme]');
 if(checkbox)
  {
@@ -128,7 +121,6 @@ if(checkbox)
      document.documentElement.setAttribute('data-theme', 'light')
    }
  });
-
  let trans = () => {
    document.documentElement.classList.add('transition');
    window.setTimeout(() => {
