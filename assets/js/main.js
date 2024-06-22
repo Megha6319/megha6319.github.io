@@ -107,11 +107,12 @@ let footer = $(`
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer">
-    <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank" rel="author" style="margin: 0 10px;">
-        <i class="fab fa-linkedin-in" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block; "></i>
+    <a href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F03%2FColor-of-the-LinkedIn-Logo.jpg&f=1&nofb=1&ipt=87d910146bfaa2b2244db77374cdc8a18d559692707158a3546f0a351073f81a&ipo=images" alt="LinkedIn" style="width: 35px; height: 32px; border-radius: 50%; margin-right: 10px;">
     </a>
-    <a class="social-icon-footer github" href="https://github.com/megha6319" target="_blank" rel="author" style="margin: 0 10px;">
-        <i class="fab fa-github" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block;"></i>
+
+    <a href="https://github.com/megha6319" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F128-1280192_github-logo-png-github-png-transparent-png.png&f=1&nofb=1&ipt=a2d94e338d5810def10844dbecbb0186e876a6d26529e7d322704dccebb4da9d&ipo=images" alt="GitHub" style="width: 35px; height: 32px; border-radius: 50%;">
     </a>
     <br>
 </div>
