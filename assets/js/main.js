@@ -94,12 +94,10 @@ let header = $(`
 
 let footer = $(`
 
-      <div class="col-sm-6 col-md-5 pt-3 footer-2">
-
+     
         <!-- footer_title -->
      
 
-        <div class="empty-space marg-lg-b30"></div>
       </div>
     </div>
   </div>
