@@ -93,20 +93,6 @@ let header = $(`
 </ul>`);
 
 let footer = $(`
-<footer class="webintern-footer">
-<div class="webintern-footer-inner">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 col-md-6 pt-3" >
-      <div class="col-sm-6 col-md-7">
-        <a class="webintern-footer-logo" href="#">
-    
-        </a>
-
-    </div>
-
-
-    </div>
 
       <div class="col-sm-6 col-md-5 pt-3 footer-2">
 
