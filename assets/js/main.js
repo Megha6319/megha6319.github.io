@@ -83,25 +83,29 @@ let header = $(`
         </li>
 </ul>`);
 let footer = $(`
-      <div class="col-sm-6 col-md-5 pt-3 footer-2">
-        <!-- footer_title -->
-        <h4 class="webintern_footer_title h5">
-        
-        </h4>
-        <p style="color:white;">
-        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank"> meghabendre21@gmail.com </a>
-        </p>
-        <div class="empty-space marg-lg-b30"></div>
+  <footer class="page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-md-5 pt-3 footer-2">
+          <h4 class="webintern_footer_title h5">Contact</h4>
+          <p style="color:white;">
+            <a style="color:white;" href="mailto:meghabendre21@gmail.com">meghabendre21@gmail.com</a>
+          </p>
+          <div class="empty-space marg-lg-b30"></div>
+        </div>
+        <div class="col-sm-6 col-md-7 pt-3">
+          <!-- Additional footer content if needed -->
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <!-- Copyright or additional footer content -->
+        </div>
       </div>
     </div>
-  </div>
-</div>
-<div class="tt-copy">
-  <div class="container col-sm-6">
-   <!-- <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>-->
-  </div>
-</div>
-</footer>`);
+  </footer>
+`);
+
 let bodyElement = $(`body`);
 bodyElement.prepend(header);
 bodyElement.append(footer);
