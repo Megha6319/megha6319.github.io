@@ -25,7 +25,6 @@ html[data-theme="dark"] {
   position: relative;
   height: 100vh;
   width: 100%;
-  overflow-y: hidden; 
 }
 .section {
   background-color: rgb(63, 25, 170);
@@ -73,10 +72,10 @@ html[data-theme="dark"] {
 /*Social icons*/
 
 :root {
-  --link-size: 60px;
+  --link-size: 64px;
   --trans-props: all 0.3s ease;
-  --link-size-footer-b: 20px;
-  --link-size-footer-s: 10px;
+  --link-size-footer-b: 40px;
+  --link-size-footer-s: 30px;
 }
 
 .social-icons {
