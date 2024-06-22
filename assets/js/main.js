@@ -43,6 +43,7 @@ let header = $(`
        
     
         <li><a class="white-text" href="assets/meghac.pdf" target="_blank"> Resume</a></li>
+         <li><a class="white-text" href="assets/COVER LETTER.pdf" target="_blank"> Cover Letter </a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
