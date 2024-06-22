@@ -97,9 +97,6 @@ let footer = $(`
       <div class="col-sm-6 col-md-5 pt-3 footer-2">
 
         <!-- footer_title -->
-        <h4 class="webintern_footer_title h5">
-        
-        </h4>
         <p style="color:white;">
         <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank"> meghabendre21@gmail.com </a>
         </p>
