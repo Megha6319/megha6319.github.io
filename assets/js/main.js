@@ -107,10 +107,10 @@ let footer = $(`
 
 <div class="social-icons-footer">
     <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank" rel="author" style="margin: 0 10px;">
-        <i class="fab fa-linkedin-in" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block; color: #0e76a8;"></i>
+        <i class="fab fa-linkedin-in" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block; "></i>
     </a>
     <a class="social-icon-footer github" href="https://github.com/megha6319" target="_blank" rel="author" style="margin: 0 10px;">
-        <i class="fab fa-github" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block; color: #211f1f;"></i>
+        <i class="fab fa-github" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; text-align: center; vertical-align: middle; display: inline-block;"></i>
     </a>
     <br>
 </div>
