@@ -287,7 +287,7 @@ html.transition *:after {
 .webintern-footer {
   background-color: var(--bg-nav);
   background-image: var(--bg-nav-img);
-  padding: 10px;
+  padding: 10px 0;
 }
 .row{
 
