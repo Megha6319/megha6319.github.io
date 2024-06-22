@@ -92,22 +92,7 @@ let header = $(`
         </li>
 </ul>`);
 
-let footer = $(`
 
-     
-        <!-- footer_title -->
-     
-
-      </div>
-    </div>
-  </div>
-</div>
-<div class="tt-copy">
-  <div class="container col-sm-6">
-   <!-- <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>-->
-  </div>
-</div>
-</footer>`);
 let bodyElement = $(`body`);
 bodyElement.prepend(header);
 bodyElement.append(footer);
