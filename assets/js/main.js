@@ -64,7 +64,7 @@ let header = $(`
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="https://assets/meghac.pdf" target="_blank"> Resume</a></li>
+<li><a href="https://assets/RESUME.pdf" target="_blank"> Resume</a></li>
  <li><a class="white-text" href="assets/COVER LETTER.pdf" target="_blank"> Cover Letter </a></li>
 <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
