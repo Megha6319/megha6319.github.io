@@ -106,17 +106,15 @@ let footer = $(`
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer">
- 
-  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank" rel="author">
-    <i class="fab fa-linkedin-in"></i>
-</a>
-
-  <a class="social-icon-footer github" href="https://github.com/megha6319" target="_blank" rel="author">
-    <i class="fab fa-github"></i>
-      </a>
-  <br>
-
+    <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/meghac-4b297416b/" target="_blank" rel="author" style="margin: 0 10px;">
+        <i class="fab fa-linkedin-in" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; background-color: #ffffff; text-align: center; vertical-align: middle; display: inline-block; color: #0e76a8;"></i>
+    </a>
+    <a class="social-icon-footer github" href="https://github.com/megha6319" target="_blank" rel="author" style="margin: 0 10px;">
+        <i class="fab fa-github" style="width: 35px; height: 35px; line-height: 35px; border-radius: 50%; background-color: #ffffff; text-align: center; vertical-align: middle; display: inline-block; color: #211f1f;"></i>
+    </a>
+    <br>
 </div>
+
     </div>
 
       <div class="col-sm-6 col-md-5 pt-3 footer-2">
