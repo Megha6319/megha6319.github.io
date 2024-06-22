@@ -98,10 +98,10 @@ let footer = $(`
 
         <!-- footer_title -->
         <h4 class="webintern_footer_title h5">
-          <small>Get In Touch</small>
+        
         </h4>
         <p style="color:white;">
-        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank">meghabendre21@gmail.com</a>
+        <a style="color:white;" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=meghabendre21@gmail.com" target="_blank"> meghabendre21@gmail.com </a>
         </p>
 
         <div class="empty-space marg-lg-b30"></div>
