@@ -144,8 +144,6 @@ Undergraduate Coursework:
 
 **Portfolio:** https://megha6319.github.io/
 
-- GitHub: [github.com/Megha6319](https://github.com/Megha6319)
-- Portfolio: [megha6319.github.io](https://megha6319.github.io/)
 ##
 
 
