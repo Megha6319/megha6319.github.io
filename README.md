@@ -110,7 +110,7 @@ Undergraduate Coursework:
 
 **1. Google Cloud Platform at Qwiklabs**
    
-   Engaged with Qwiklabs, an online learning platform offering interactive courses and hands-on labs focused on the Google Cloud Platform ☁️.
+   Engaged with Qwiklabs, an online learning platform offering interactive courses and hands-on labs focused on the Google Cloud Platform.
 
 **2. Paper Presentation at UDYUKTA 2K19**
  
