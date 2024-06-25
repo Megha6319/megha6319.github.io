@@ -96,7 +96,7 @@ Courses and Certifications 📜
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Projects 🚀
+## Projects 🚀
 
 1. Final Year Project: Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques
    
@@ -118,7 +118,7 @@ Projects 🚀
    card  and includes game over conditions for unmatched card selections.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Connect with Me 🌐
+## Connect with Me 🌐
 
 Gmail : meghabendre21@gmail.com
 
