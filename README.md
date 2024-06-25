@@ -1,6 +1,7 @@
 ### Welcome to My GitHub Page! 👋
 
-I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data Science at RMIT University 🎓, based in Melbourne,Australia🇦🇺.
+I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data Science at RMIT University 🎓, 
+based in Melbourne,Australia🇦🇺.
 
 ## 
 
@@ -8,17 +9,23 @@ I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data S
 
 **1. Student Ambassador (June 2023 – Nov 2023) at RMIT University**
    
-   Strengthened my professional network and communication skills through collaborative teamwork, enhancing my ability to effectively convey ideas. 🤝
+   Strengthened my professional network and communication skills through collaborative teamwork, 
+   enhancing my ability to effectively convey ideas. 🤝
 
 **2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
    
-   Completed a comprehensive training program, delivering a top presentation on the LinkedIn Data Breach and gaining proficiency in developing robust, scalable APIs using the
+   Completed a comprehensive training program, 
+   delivering a top presentation on the LinkedIn Data Breach and
+   gaining proficiency in developing robust, scalable APIs using the
    .NET framework. 🖥️
 
 **3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)**
    
-   Gained expertise in using Camunda BPMN and DMN process modeler, as well as Workflow Engine for task automation, enhancing project workflow efficiency. Led the development of 
-   real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
+   Gained expertise in using Camunda BPMN and DMN process modeler,
+   as well as Workflow Engine for task automation, enhancing project workflow efficiency.
+   Led the development of real-time incident reporting automation, 
+   ensuring instant notifications to hospitals and 
+   police stations via email or message integration. 📈
 
 ##
 
@@ -27,21 +34,33 @@ I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data S
 **1. Master's in Data Science (Feb 2023 – Nov 2024) at RMIT University**
    
 Postgraduate Coursework:
+
 • Database Concepts
+
 • Practical Data Science with Python
+
 • Applied Analytics
+
 • Advanced Programming for Data Science
+
 • Programming Fundamentals
+
 • Time Series Analysis
 
 **2. Bachelor's in Computer Science (August 2018 – November 2022) at SVCE**
    
 Undergraduate Coursework:
+
 • Operating Systems
+
 • Databases
+
 • Algorithms
+
 • Computer Architecture
+
 • Calculus III
+
 • CGPA: 8.24 🎓
 
 ##
@@ -49,28 +68,41 @@ Undergraduate Coursework:
 ### Skills 🛠️
 
 **1. Programming Languages:**
+
 • Python 
+
 • C 💻
+
 • Java ☕
+
 • CSS 🎨
+
 • R 📊
 
 **2. Tools:**
+
 • git/GitHub 🗂️
 
 **3. Databases:**
+
 • MySQL 🗄️
 
 **4. Platform:**
+
 • Windows 🪟
 
 **5. ML Libraries and Frameworks:**
+
 • Numpy 🔢
+
 • Pandas 
+
 • Matplotlib 📉
 
 **Soft Skills:**
+
 • Communication 🗣️
+
 • Teamwork 🤝
 
 ##
