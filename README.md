@@ -5,11 +5,11 @@ ________________________________________________________________________________
 
 ## Professional Experience 🏆
 
-1. Student Ambassador (June 2023 – November 2023) at RMIT University
+1. Student Ambassador (June 2023 – Nov 2023) at RMIT University
    
    Strengthened my professional network and communication skills through collaborative teamwork, enhancing my ability to effectively convey ideas. 🤝
 
-2. Associate Software Engineer (October 2022 – January 2023) at Ernst & Young
+2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young
    
    Completed a comprehensive training program, delivering a top presentation on the LinkedIn Data Breach and gaining proficiency in developing robust, scalable APIs using the
    .NET framework. 🖥️
