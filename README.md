@@ -4,7 +4,7 @@ I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data S
 
 ## 
 
-## Professional Experience 🏆
+### Professional Experience 🏆
 
 1. Student Ambassador (June 2023 – Nov 2023) at RMIT University
    
@@ -21,7 +21,7 @@ I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data S
    real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Education 📚
+### Education 📚
 
 1. Master's in Data Science (February 2023 – November 2024) at RMIT University
    
@@ -44,7 +44,7 @@ Undergraduate Coursework:
 • CGPA: 8.24 🎓
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Skills 🛠️
+### Skills 🛠️
 
 1. Programming Languages:
 • Python 
@@ -73,7 +73,7 @@ Soft Skills:
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Awards and Recognition 🏅
+### Awards and Recognition 🏅
 
 1. Google Cloud Platform at Qwiklabs
    
@@ -88,7 +88,7 @@ ________________________________________________________________________________
    choices, even when dealing with compelling advertisements 🌱.
 ________________________________________________________________________________________________________________________________________________________________________________
 
-## Courses and Certifications 📜
+### Courses and Certifications 📜
 
 1. Data Science BootCamp - From Analyzing Data To Creating ML Models at GeeksforGeeks
    
@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Projects 🚀
+### Projects 🚀
 
 1. Final Year Project: Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques
    
@@ -129,7 +129,7 @@ ________________________________________________________________________________
    card  and includes game over conditions for unmatched card selections.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Connect with Me 🌐
+### Connect with Me 🌐
 
 Gmail : meghabendre21@gmail.com
 
