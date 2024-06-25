@@ -6,20 +6,21 @@ I am **Megha Chandra Shekar**,currently pursuing a **Master's degree** in Data S
 
 ### Professional Experience 🏆
 
-1. Student Ambassador (June 2023 – Nov 2023) at RMIT University
+**1. Student Ambassador (June 2023 – Nov 2023) at RMIT University**
    
    Strengthened my professional network and communication skills through collaborative teamwork, enhancing my ability to effectively convey ideas. 🤝
 
-2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young
+**2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
    
    Completed a comprehensive training program, delivering a top presentation on the LinkedIn Data Breach and gaining proficiency in developing robust, scalable APIs using the
    .NET framework. 🖥️
 
-3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)
+**3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)**
    
    Gained expertise in using Camunda BPMN and DMN process modeler, as well as Workflow Engine for task automation, enhancing project workflow efficiency. Led the development of 
    real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
-_________________________________________________________________________________________________________________________________________________________________________________
+
+##
 
 ### Education 📚
 
@@ -42,7 +43,8 @@ Undergraduate Coursework:
 • Computer Architecture
 • Calculus III
 • CGPA: 8.24 🎓
-_________________________________________________________________________________________________________________________________________________________________________________
+
+##
 
 ### Skills 🛠️
 
@@ -71,7 +73,7 @@ Soft Skills:
 • Communication 🗣️
 • Teamwork 🤝
 
-_________________________________________________________________________________________________________________________________________________________________________________
+##
 
 ### Awards and Recognition 🏅
 
@@ -86,7 +88,8 @@ ________________________________________________________________________________
  
    The popularity of junk foods primarily stems from marketing strategies. This project aims to raise awareness, empower young people, and inspire them to opt for healthier
    choices, even when dealing with compelling advertisements 🌱.
-________________________________________________________________________________________________________________________________________________________________________________
+
+##
 
 ### Courses and Certifications 📜
 
@@ -105,7 +108,7 @@ ________________________________________________________________________________
    Acquired fundamental knowledge and skills essential for proficient utilization of Google Analytics, including understanding key metrics, data interpretation, tracking 
    implementation, and report generation. 📊
 
-_________________________________________________________________________________________________________________________________________________________________________________
+##
 
 ### Projects 🚀
 
@@ -127,7 +130,8 @@ ________________________________________________________________________________
 
    Created a card guessing game using HTML, CSS, and JavaScript, featuring 10 cards numbered from 0 to 9, with scoring functionality that increments by 1 for each matching 
    card  and includes game over conditions for unmatched card selections.
-_________________________________________________________________________________________________________________________________________________________________________________
+
+##
 
 ### Connect with Me 🌐
 
@@ -140,5 +144,6 @@ GitHub :  https://github.com/Megha6319
 Portfolio: https://megha6319.github.io/
 
 
+##
 
 
