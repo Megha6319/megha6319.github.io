@@ -1,9 +1,9 @@
-Welcome to My GitHub Page! 👋
+## Welcome to My GitHub Page! 👋
 
-I am Megha Chandra Shekar, currently pursuing a Master's degree in Data Science at RMIT University 🎓, based in Melbourne, Australia 🇦🇺.
+I am **Megha Chandra Shekar**, currently pursuing a **Master's degree** in Data Science at RMIT University 🎓, based in **Melbourne, Australia** 🇦🇺.
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Professional Experience 🏆
+## Professional Experience 🏆
 
 1. Student Ambassador (June 2023 – November 2023) at RMIT University
    
@@ -18,7 +18,7 @@ Professional Experience 🏆
 • Gained expertise in using Camunda BPMN and DMN process modeler, as well as Workflow Engine for task automation, enhancing project workflow efficiency. Led the development of real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Education 📚
+## Education 📚
 
 1. Master's in Data Science (February 2023 – November 2024) at RMIT University
    
@@ -41,7 +41,7 @@ Undergraduate Coursework:
 • CGPA: 8.24 🎓
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Skills 🛠️
+## Skills 🛠️
 
 1. Programming Languages:
 • Python 
@@ -70,19 +70,22 @@ Soft Skills:
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Awards and Recognition 🏅
+## Awards and Recognition 🏅
 
 1. Google Cloud Platform at Qwiklabs
-• Engaged with Qwiklabs, an online learning platform offering interactive courses and hands-on labs focused on the Google Cloud Platform ☁️.
+   
+   Engaged with Qwiklabs, an online learning platform offering interactive courses and hands-on labs focused on the Google Cloud Platform ☁️.
 
 2. Paper Presentation at UDYUKTA 2K19
-• Developed an artificial intelligence-based chatbot using a Sequence-to-Sequence model, which underwent a Turing Test evaluation 🤖.
-
+ 
+   Developed an artificial intelligence-based chatbot using a Sequence-to-Sequence model, which underwent a Turing Test evaluation 🤖.
 3. Youth Talk at ICT Academy
-• The popularity of junk foods primarily stems from marketing strategies. This project aims to raise awareness, empower young people, and inspire them to opt for healthier choices, even when dealing with compelling advertisements 🌱.
+ 
+   The popularity of junk foods primarily stems from marketing strategies. This project aims to raise awareness, empower young people, and inspire them to opt for healthier
+   choices, even when dealing with compelling advertisements 🌱.
 ________________________________________________________________________________________________________________________________________________________________________________
 
-Courses and Certifications 📜
+## Courses and Certifications 📜
 
 1. Data Science BootCamp - From Analyzing Data To Creating ML Models at GeeksforGeeks
 • The Data Science Bootcamp equipped me with both basic and advanced skills in various tools and technologies essential for Data Science, Data Analysis, and Machine Learning. 🧠
