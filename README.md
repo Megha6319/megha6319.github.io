@@ -120,9 +120,9 @@ Connect with Me 🌐
 
 Gmail : meghabendre21@gmail.com
 
-LinkedIn : linkedin.com/in/megha-c-4b297416b/
+LinkedIn : https://www.linkedin.com/in/meghac-4b297416b/
 
-GitHub : github.com/Megha6319
+GitHub :  https://github.com/Megha6319
 
 Portfolio: https://megha6319.github.io/
 
