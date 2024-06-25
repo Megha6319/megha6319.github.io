@@ -7,15 +7,17 @@ ________________________________________________________________________________
 
 1. Student Ambassador (June 2023 – November 2023) at RMIT University
    
-• Strengthened my professional network and communication skills through collaborative teamwork, enhancing my ability to effectively convey ideas. 🤝
+   Strengthened my professional network and communication skills through collaborative teamwork, enhancing my ability to effectively convey ideas. 🤝
 
 2. Associate Software Engineer (October 2022 – January 2023) at Ernst & Young
    
-• Completed a comprehensive training program, delivering a top presentation on the LinkedIn Data Breach and gaining proficiency in developing robust, scalable APIs using the .NET framework. 🖥️
+   Completed a comprehensive training program, delivering a top presentation on the LinkedIn Data Breach and gaining proficiency in developing robust, scalable APIs using the
+   .NET framework. 🖥️
 
 3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)
    
-• Gained expertise in using Camunda BPMN and DMN process modeler, as well as Workflow Engine for task automation, enhancing project workflow efficiency. Led the development of real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
+   Gained expertise in using Camunda BPMN and DMN process modeler, as well as Workflow Engine for task automation, enhancing project workflow efficiency. Led the development of 
+   real-time incident reporting automation, ensuring instant notifications to hospitals and police stations via email or message integration. 📈
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ## Education 📚
