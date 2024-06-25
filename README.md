@@ -88,14 +88,19 @@ ________________________________________________________________________________
 ## Courses and Certifications 📜
 
 1. Data Science BootCamp - From Analyzing Data To Creating ML Models at GeeksforGeeks
-• The Data Science Bootcamp equipped me with both basic and advanced skills in various tools and technologies essential for Data Science, Data Analysis, and Machine Learning. 🧠
-• It provided comprehensive training, giving me hands-on experience with key tools and technologies, including Python and Machine Learning concepts. 🛠️
+   
+  The Data Science Bootcamp equipped me with both basic and advanced skills in various tools and technologies essential for Data Science, Data Analysis, and Machine Learning. 
+  It provided comprehensive training, giving me hands-on experience with key tools and technologies, including Python and Machine Learning concepts. 🛠️
 
 2. Introduction to Python at DataCamp
-• Explored the fundamentals of Python programming, including essential concepts such as data types and object-oriented programming principles. Gained proficiency in utilizing libraries such as NumPy, pandas, matplotlib, and seaborn for data manipulation, analysis, and visualization. 
+
+  Explored the fundamentals of Python programming, including essential concepts such as data types and object-oriented programming principles. Gained proficiency in utilizing 
+  libraries such as NumPy, pandas, matplotlib, and seaborn for data manipulation, analysis, and visualization. 
 
 3. Google Analytics for Beginners at Google Analytics Academy
-• Acquired fundamental knowledge and skills essential for proficient utilization of Google Analytics, including understanding key metrics, data interpretation, tracking implementation, and report generation. 📊
+
+   Acquired fundamental knowledge and skills essential for proficient utilization of Google Analytics, including understanding key metrics, data interpretation, tracking 
+   implementation, and report generation. 📊
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
