@@ -99,24 +99,32 @@ ________________________________________________________________________________
 Projects 🚀
 
 1. Final Year Project: Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques
-• Utilized XGBoost, Decision Tree, Logistic Regression, and MLP to predict future crime types from the Chicago dataset based on location, time, weather, and historical crime data, achieving accuracy rates of XGBoost (92%), Decision Tree (89%), Logistic Regression (87%), and MLP (86%).
+   •  Utilized XGBoost, Decision Tree, Logistic Regression, and MLP to predict future crime types from the Chicago dataset based on location, time, weather, and historical crime
+      data, achieving accuracy rates of XGBoost (92%), Decision Tree (89%), Logistic Regression (87%), and MLP (86%).
 
-2. Predicting House Prices using Boston Data Set
-• Implemented a machine learning model in Python to predict house prices using the Boston Data Set, leveraging techniques such as regression analysis and feature engineering for accurate price estimation.
+3. Predicting House Prices using Boston Data Set
+   
+    •  Implemented a machine learning model in Python to predict house prices using the Boston Data Set, leveraging techniques such as regression analysis and feature
+       engineering for accurate price estimation.
 
-3. Snake And Ladder Game
-• Developed a Snake and Ladder game using HTML, CSS, and JavaScript, integrating interactive gameplay mechanics for an engaging gaming experience.
+5. Snake And Ladder Game
+   • Developed a Snake and Ladder game using HTML, CSS, and JavaScript, integrating interactive gameplay mechanics for an engaging gaming experience.
 
-4. Card Guessing Game
-• Created a card guessing game using HTML, CSS, and JavaScript, featuring 10 cards numbered from 0 to 9, with scoring functionality that increments by 1 for each matching card and includes game over conditions for unmatched card selections.
+5. Card Guessing Game
+
+   • Created a card guessing game using HTML, CSS, and JavaScript, featuring 10 cards numbered from 0 to 9, with scoring functionality that increments by 1 for each matching 
+   card  and includes game over conditions for unmatched card selections.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 Connect with Me 🌐
 
-Gmail: meghabendre21@gmail.com
-LinkedIn: Megha Chandra Shekar
-GitHub: github.com/Megha6319
-Portfolio: megha6319.github.io
+Gmail : meghabendre21@gmail.com
+
+LinkedIn : linkedin.com/in/megha-c-4b297416b/
+
+GitHub : github.com/Megha6319
+
+Portfolio: https://megha6319.github.io/
 
 
 
