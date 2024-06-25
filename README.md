@@ -99,18 +99,20 @@ ________________________________________________________________________________
 Projects 🚀
 
 1. Final Year Project: Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques
+   
    •  Utilized XGBoost, Decision Tree, Logistic Regression, and MLP to predict future crime types from the Chicago dataset based on location, time, weather, and historical crime
       data, achieving accuracy rates of XGBoost (92%), Decision Tree (89%), Logistic Regression (87%), and MLP (86%).
 
-3. Predicting House Prices using Boston Data Set
+2. Predicting House Prices using Boston Data Set
    
     •  Implemented a machine learning model in Python to predict house prices using the Boston Data Set, leveraging techniques such as regression analysis and feature
        engineering for accurate price estimation.
 
-5. Snake And Ladder Game
+3. Snake And Ladder Game
+   
    • Developed a Snake and Ladder game using HTML, CSS, and JavaScript, integrating interactive gameplay mechanics for an engaging gaming experience.
 
-5. Card Guessing Game
+4. Card Guessing Game
 
    • Created a card guessing game using HTML, CSS, and JavaScript, featuring 10 cards numbered from 0 to 9, with scoring functionality that increments by 1 for each matching 
    card  and includes game over conditions for unmatched card selections.
