@@ -1,8 +1,11 @@
 ### Welcome to My GitHub Page! 👋
 
 I am **Megha Chandra Shekar**,
+
 currently pursuing a **Master's degree** in Data Science 
+
 at RMIT University 🎓, 
+
 based in Melbourne,Australia🇦🇺.
 
 ## 
