@@ -151,7 +151,7 @@ Undergraduate Coursework:
 
 **2. Predicting House Prices using Boston Data Set**
    
-    Implemented a machine learning model in Python to predict house prices using the Boston Data Set, leveraging techniques such as regression analysis and feature
+    Implemented a machine learning model in Python to predict house prices using the Boston Data Set leveraging techniques such as regression analysis and feature
     engineering for accurate price estimation.
 
 **3. Snake And Ladder Game**
