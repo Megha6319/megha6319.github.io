@@ -44,7 +44,7 @@ Undergraduate Coursework:
 
 **1. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
    
-    • Full-Stack Development: Enhanced an employee onboarding portal by
+ • Full-Stack Development: Enhanced an employee onboarding portal by
    optimizing .NET-based backend workflows and integrating SQL-driven data
    forms. Reduced form submission latency by 15% and added new RESTful
    endpoints for role-based user access.🖥️
