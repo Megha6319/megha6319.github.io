@@ -6,17 +6,17 @@ const projects = [
     title: "NLP Based Restaurant Recommendation System",
     cardImage: "https://media.geeksforgeeks.org/wp-content/uploads/20200228163329/lregcoefficient1.png" ,
     description:  "Developed Collaborative Filtering Model, Enhanced User Experience, Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
-    Previewlink:  "",
-    Githublink:  "".
+    Previewlink:  " ",
+    Githublink:  " "
   },
   
 
   {
     title: "Accident Detection Using Camera Surveillance Video",
-    cardImage: "https://troussecreation.lapresse.ca/htdocs/data/img/interactions/jeux-de-memoire.gif" ,
+    cardImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F473%2F237%2Fdatas%2Foriginal.png&f=1&nofb=1&ipt=d41db8fffbf20a753bcf42f11da62e32bf7c85997c7a96efb3a1f561184ad98e" ,
     description:  "Developed Smart Traffic Control, Real-Time Incident Monitoring, Technologies utilized : Python and Scikit-learn.",
-    Previewlink:  "",
-    Githublink:  "".
+    Previewlink:  " ",
+    Githublink:   " "
   },
 
   
