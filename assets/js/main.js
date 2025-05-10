@@ -38,7 +38,7 @@ let header = $(`
         <li><a class="white-text" href="education.html">Education</a></li>
        
     
-        <li><a class="white-text" href="assets/MeghaChandraShekar_Resume.pdf" target="_blank"> MeghaChandraShekar_Resume</a></li>
+        <li><a class="white-text" href="assets/MeghaChandraShekar_Resume.pdf" target="_blank"> Resume</a></li>
          
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
