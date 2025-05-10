@@ -11,7 +11,7 @@ const exp = [
   },
   {
     title: "Engineer Intern",
-    cardImage: "https://media.licdn.com/dms/image/C560BAQETKscYgcLx3g/company-logo_200_200/0/1660656944705/redblacktree_logo?e=1727308800&v=beta&t=fZylEv2H1xEDAzxOKPbVhp1sJ3wLVRHL40ubPFEtH40",
+    cardImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.redblacktree.com%2Fstatic%2Fmedia%2Frbt-pink.024f64ccb32f7e6fa50f.png&f=1&nofb=1&ipt=177dad90a3dee52dcc836f127596183a63d9543246c41ad7cd58b54e0209d27f",
     place: "Bangalore Urban, Karnataka, India",    
     time: "(Aug 2022 – Oct 2022)",
     desp: "<li>Low-Code Full-Stack Development: Designed and developed a task management system using Mendix, reducing overall development time by 30% compared to traditional coding approaches.</li> <li>Workflow and UI Logic Automation: Automated form validation and navigation through Mendix’s visual logic, improving UI/UX efficiency by 40% and minimizing user input errors.</li>",
