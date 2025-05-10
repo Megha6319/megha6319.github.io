@@ -1,8 +1,8 @@
 ### Welcome to My GitHub Page! 👋
 
-I am **Megha Chandra Shekar**, a recent graduate with a **Master's degree** in Data Science from RMIT University 🎓, based in Melbourne,Australia🇦🇺.
+I am **Megha Chandra Shekar**, a recent graduate with a **Master's degree** in Data Science from RMIT University, Melbourne,Australia🎓. 
 
-## 
+Currently based in India 🇮🇳, I am actively seeking opportunities to apply my skills in  **data science and software engineering**. 
 
 ### Education 📚
 
