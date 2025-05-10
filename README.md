@@ -2,7 +2,7 @@
 
 I am **Megha Chandra Shekar**, a recent graduate with a **Master's degree** in Data Science from RMIT University, Melbourne,Australia🎓. 
 
-Currently based in India 🇮🇳, I am actively seeking opportunities to apply my skills in  **data science and software engineering**. 
+Currently based in India 🇮🇳, I am actively seeking **Data Science** and **Software Engineering roles** where I can apply my skills and contribute to innovative projects.
 
 ### Education 📚
 
