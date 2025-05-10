@@ -5,7 +5,7 @@ const projects = [
   {
     title: "NLP Based Restaurant Recommendation System",
     cardImage: "https://media.geeksforgeeks.org/wp-content/uploads/20200228163329/lregcoefficient1.png" ,
-    description:  "Developed Collaborative Filtering Model: Created a Python-based recommendation system with a 0.85 average correlation score, suggesting restaurants based on user behavior. Enhanced User Experience: Provided personalized, highly-rated restaurant recommendations, boosting user satisfaction. Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
+    description:  "Developed Collaborative Filtering Model, Enhanced User Experience, Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
    
   },
   
@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Card Guessing Game",
     cardImage: "https://troussecreation.lapresse.ca/htdocs/data/img/interactions/jeux-de-memoire.gif" ,
-    description:  "Developed Smart Traffic Control: Implemented an intelligent traffic management system that optimizes signal timings, reducing congestion by up to 30%. Real-Time Incident Monitoring: Integrated real-time monitoring to detect and respond to accidents within seconds, improving emergency response times by 25%. Technologies utilized : Python and Scikit-learn.",
+    description:  "Developed Smart Traffic Control, Real-Time Incident Monitoring, Technologies utilized : Python and Scikit-learn.",
    
   },
 
