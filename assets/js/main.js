@@ -38,7 +38,7 @@ let header = $(`
         <li><a class="white-text" href="education.html">Education</a></li>
        
     
-        <li><a class="white-text" href="assets/RESUME.pdf" target="_blank"> Resume</a></li>
+        <li><a class="white-text" href="assets/MeghaChandraShekar_Resume.pdf" target="_blank"> MeghaChandraShekar_Resume</a></li>
          
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
@@ -65,7 +65,7 @@ let header = $(`
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="https://assets/RESUME.pdf" target="_blank"> Resume</a></li>
- <li><a class="white-text" href="assets/COVER LETTER.pdf" target="_blank"> Cover Letter </a></li>
+
 <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
