@@ -6,22 +6,22 @@ const moocscards = [
   {
     title: "Data Science BootCamp",
     cardImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgixs36L0KYTRVGX8YdjSLiege2-7KUAi8woXTSSfbonoFvKbyCuAYY23UdrqztuO5bEYyr7AfHT3yV4onCMMEmkrk3oU5uyed6SoSuOOuZ7DPyWu0JmT7NGMu2Xj4HMHMAGi6Zpw7VtVy1T993Wjm6fEYS0ocmXR_vCT4TjzVLQPxcbPPcztsg1Y/s2560/GeeksforGeeks.svg.png",
-    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1718594761397/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
+    moocLink: "https://www.linkedin.com/in/megha-chandra-shekar/details/featured/1718594761397/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Google Analytics for Beginners",
     cardImage: "https://i1.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Analytics-Academy.jpg?fit=800%2C400&ssl=1",
-    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339423220/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
+    moocLink: "https://www.linkedin.com/in/megha-chandra-shekar/details/featured/1604339423220/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Introduction to Python",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339531593/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
+    moocLink: "https://www.linkedin.com/inmegha-chandra-shekar/details/featured/1604339531593/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Machine Learning for Everyone",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.linkedin.com/in/meghac-4b297416b/details/featured/1604339825268/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
+    moocLink: "https://www.linkedin.com/in/megha-chandra-shekar/details/featured/1604339825268/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
 ];
 
@@ -57,8 +57,8 @@ const timelinesection = [
   {
     heading: "RMIT University",
     image: "./assets/images/education-page/timeline-2.svg",
-    subheading: "Masters in Data Science , (Feb 2023-Nov 2024)",
-    description: "<li>Postgraduate Coursework: Database Concepts ; Practical Data Science with Python ; Applied Analytics ; Advanced Programming for Data Science ; Programming Fundamentals ; Time Series Analysis.</li>",
+    subheading: "Masters in Data Science , (Feb 2023-Dec 2024)",
+    description: "<li>Postgraduate Coursework: Database Concepts ; Practical Data Science with Python ; Applied Analytics ; Advanced Programming for Data Science ; Programming Fundamentals ; Time Series Analysis.</li><li>CGPA: 3.1 </li>""
   },
   {
     heading: "Sri Venkateshwara College Of Engineering",
