@@ -10,13 +10,13 @@ const moocscards = [
   },
   {
     title: "Google Analytics for Beginners",
-    cardImage: "https://i1.wp.com/www.makeoverarena.com/wp-content/uploads/2021/03/Google-Analytics-Academy.jpg?fit=800%2C400&ssl=1",
+    cardImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FGoogle-Analytics-Symbol.png&f=1&nofb=1&ipt=40f1847e08541c99adefa1f17d0ac08e81690ee7e4350b8012d408c2e29a7967",
     moocLink: "https://www.linkedin.com/in/megha-chandra-shekar/details/featured/1604339423220/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Introduction to Python",
     cardImage: "assets/images/education-page/datacamp.png",
-    moocLink: "https://www.linkedin.com/inmegha-chandra-shekar/details/featured/1604339531593/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
+    moocLink: "https://www.linkedin.com/in/megha-chandra-shekar/details/featured/1604339531593/single-media-viewer/?profileId=ACoAACiLMMYB1qYaKcDG1VljY4aL3YnlXU2Bq00",
   },
   {
     title: "Machine Learning for Everyone",
