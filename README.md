@@ -54,6 +54,7 @@ Undergraduate Coursework:
  • Low-Code Full-Stack Development: Designed and developed a task
   management system using Mendix, reducing overall development time by 30%
   compared to traditional coding approaches.
+  
 • Workflow and UI Logic Automation: Automated form validation and navigation
   through Mendix’s visual logic, improving UI/UX efficiency by 40% and
   minimizing user input errors.📈
@@ -63,6 +64,7 @@ Undergraduate Coursework:
 • Process Automation and Efficiency: Mastered Camunda BPMN and DMN
   process modeling, achieving a 30% increase in workflow efficiency and a 25%
   reduction in manual reporting errors.
+  
 • Real-Time Incident Reporting System: Led the creation of an automated
   system with email and message notifications, reducing emergency response
   times by 40% and improving coordination between hospitals and police
