@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Accident Detection Using Camera Surveillance Video",
     cardImage: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd112y698adiu2z.cloudfront.net%2Fphotos%2Fproduction%2Fsoftware_photos%2F001%2F473%2F237%2Fdatas%2Foriginal.png&f=1&nofb=1&ipt=d41db8fffbf20a753bcf42f11da62e32bf7c85997c7a96efb3a1f561184ad98e" ,
-    description:  "Developed Smart Traffic Control, Real-Time Incident Monitoring, Technologies utilized : Python and Scikit-learn.",
+    description:  " Technologies utilized : Python and Scikit-learn.",
     Previewlink:  " ",
     Githublink:   " "
   },
