@@ -1,36 +1,12 @@
 ### Welcome to My GitHub Page! 👋
 
-I am **Megha Chandra Shekar**, currently pursuing a **Master's degree** in Data Science at RMIT University 🎓, based in Melbourne,Australia🇦🇺.
+I am **Megha Chandra Shekar**, a recent graduate with a **Master's degree** in Data Science from RMIT University 🎓, based in Melbourne,Australia🇦🇺.
 
 ## 
 
-### Professional Experience 🏆
-
-**1. Student Ambassador (June 2023 – Nov 2023) at RMIT University**
-   
-   Strengthened my professional network and communication skills through collaborative teamwork, 
-   enhancing my ability to effectively convey ideas. 🤝
-
-**2. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
-   
-   Completed a comprehensive training program, 
-   delivering a top presentation on the LinkedIn Data Breach and
-   gaining proficiency in developing robust, scalable APIs using the
-   .NET framework. 🖥️
-
-**3. Software Engineer Intern (April 2022 – May 2022) at Bharat Electronics Limited (BEL)**
-   
-   Gained expertise in using Camunda BPMN and DMN process modeler,
-   as well as Workflow Engine for task automation, enhancing project workflow efficiency.
-   Led the development of real-time incident reporting automation, 
-   ensuring instant notifications to hospitals and 
-   police stations via email or message integration. 📈
-
-##
-
 ### Education 📚
 
-**1. Master's in Data Science (Feb 2023 – Nov 2024) at RMIT University**
+**1. Master's in Data Science (Feb 2023 – Dec 2024) at RMIT University**
    
 Postgraduate Coursework:
 
@@ -63,6 +39,36 @@ Undergraduate Coursework:
 • CGPA: 8.24 🎓
 
 ##
+
+### Professional Experience 🏆
+
+**1. Associate Software Engineer (Oct 2022 – Jan 2023) at Ernst & Young**
+   
+   Full-Stack Development: Enhanced an employee onboarding portal by
+   optimizing .NET-based backend workflows and integrating SQL-driven data
+   forms. Reduced form submission latency by 15% and added new RESTful
+   endpoints for role-based user access.🖥️
+
+**2. Junior Software Engineer (Aug 2022 – Oct 2022) at RedBlackTree**
+   
+ • Low-Code Full-Stack Development: Designed and developed a task
+  management system using Mendix, reducing overall development time by 30%
+  compared to traditional coding approaches.
+• Workflow and UI Logic Automation: Automated form validation and navigation
+  through Mendix’s visual logic, improving UI/UX efficiency by 40% and
+  minimizing user input errors.📈
+
+**3. Junior Software Engineer  (Apr 2022 – May 2022) at Bharat Electronics Limited**
+
+• Process Automation and Efficiency: Mastered Camunda BPMN and DMN
+  process modeling, achieving a 30% increase in workflow efficiency and a 25%
+  reduction in manual reporting errors.
+• Real-Time Incident Reporting System: Led the creation of an automated
+  system with email and message notifications, reducing emergency response
+  times by 40% and improving coordination between hospitals and police
+  stations.
+##
+
 
 ### Skills 🛠️
 
@@ -144,24 +150,26 @@ Undergraduate Coursework:
 
 ### Projects 🚀
 
-**1. Final Year Project: Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques**
+**1.NLP Based Restaurant Recommendation System**  
    
-   Utilized XGBoost, Decision Tree, Logistic Regression, and MLP to predict future crime types from the Chicago dataset based on location, time, weather, and historical crime
-   data, achieving accuracy rates of XGBoost (92%), Decision Tree (89%), Logistic Regression (87%), and MLP (86%).
+• Developed Collaborative Filtering Model: Created a Python-based recommendation system with a 0.85
+average correlation score, suggesting restaurants based on user behavior.
 
-**2. Predicting House Prices using Boston Data Set**
+• Enhanced User Experience: Provided personalized, highly-rated restaurant recommendations, boosting
+user satisfaction.
 
-   Implemented a machine learning model in Python to predict house prices using the Boston Data Set, leveraging techniques such as regression analysis and feature 
-   engineering for accurate price estimation.
+• Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise
+recommendations.
 
-**3. Snake And Ladder Game**
-   
-   Developed a Snake and Ladder game using HTML, CSS, and JavaScript, integrating interactive gameplay mechanics for an engaging gaming experience.
+**NLP Based Restaurant Recommendation System**
 
-**4. Card Guessing Game**
+• Developed Smart Traffic Control: Implemented an intelligent traffic management system that optimizes
+signal timings, reducing congestion by up to 30%.
 
-   Created a card guessing game using HTML, CSS, and JavaScript, featuring 10 cards numbered from 0 to 9, with scoring functionality that increments by 1 for each matching 
-   card  and includes game over conditions for unmatched card selections.
+• Real-Time Incident Monitoring: Integrated real-time monitoring to detect and respond to accidents within
+seconds, improving emergency response times by 25%.
+
+• Technologies utilized : Python and Scikit-learn.
 
 ##
 
@@ -169,7 +177,7 @@ Undergraduate Coursework:
 
 **Gmail :** meghabendre21@gmail.com
 
-**LinkedIn :** https://www.linkedin.com/in/meghac-4b297416b/
+**LinkedIn :** https://www.linkedin.com/in/megha-chandra-shekar/
 
 **GitHub :**  https://github.com/Megha6319
 
