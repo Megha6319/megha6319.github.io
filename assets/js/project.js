@@ -5,7 +5,7 @@ const projects = [
   {
     title: "NLP Based Restaurant Recommendation System",
     cardImage: "assets/images/project-page/me.png" ,
-    description:  "Developed Collaborative Filtering Model, Enhanced User Experience, Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
+    description:  "Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
     Previewlink:  " ",
     Githublink:  " "
   },
