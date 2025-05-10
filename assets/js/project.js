@@ -3,30 +3,20 @@
 const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
-    title: "To predict the price of a house",
+    title: "NLP Based Restaurant Recommendation System",
     cardImage: "https://media.geeksforgeeks.org/wp-content/uploads/20200228163329/lregcoefficient1.png" ,
-    description:  "Boston Dataset",
-    Previewlink: " ",
-    Githublink: "https://github.com/Megha6319/Shape_AI_Python_Machine_Learning",
+    description:  "Developed Collaborative Filtering Model: Created a Python-based recommendation system with a 0.85 average correlation score, suggesting restaurants based on user behavior. Enhanced User Experience: Provided personalized, highly-rated restaurant recommendations, boosting user satisfaction. Technologies Utilized : Applied Python and NLP techniques to analyze reviews and generate precise recommendations.",
+   
   },
   
 
   {
     title: "Card Guessing Game",
     cardImage: "https://troussecreation.lapresse.ca/htdocs/data/img/interactions/jeux-de-memoire.gif" ,
-    description:  "JavaScript",
-    Previewlink: " ",
-    Githublink: "https://github.com/Megha6319/Guessing-Game-Projet-Upgrade",
+    description:  "Developed Smart Traffic Control: Implemented an intelligent traffic management system that optimizes signal timings, reducing congestion by up to 30%. Real-Time Incident Monitoring: Integrated real-time monitoring to detect and respond to accidents within seconds, improving emergency response times by 25%. Technologies utilized : Python and Scikit-learn.",
+   
   },
 
-  {
-    title: "Snake and Ladder game",
-    cardImage: "https://learnenglishkids.britishcouncil.org/sites/kids/files/image/RS2583_Board%20Game%20col-web.jpg" ,
-    description:  "JavaScript",
-    Previewlink: " ",
-    Previewlink: " ",
-    Githublink: "https://github.com/Megha6319/snake-and-ladder",
-  },
   
 
 ];
